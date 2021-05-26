@@ -1,0 +1,12 @@
+https://www.postgresqltutorial.com/postgresql-foreign-key/
+https://www.w3schools.com/sql/sql_primarykey.asp
+DBeaver app to drow the diagrame
+https://www.makeareadme.com/ #help me creating the RAEDME.ME
+https://stackoverflow.com/questions/21288549/why-primary-key-is-not-required-on-fact-table-in-dimensional-modelling
+https://github.com/web2py/web2py/issues/1697
+https://knowledge.udacity.com/questions/312708
+https://knowledge.udacity.com/questions/142826
+https://www.w3schools.com/python/ref_func_zip.asp
+https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.filter.html
+https://www.postgresqltutorial.com/postgresql-upsert/
